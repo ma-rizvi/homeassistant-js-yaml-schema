@@ -5,3 +5,5 @@ Used in [vscode-yaml-sort](https://github.com/pascalre/vscode-yaml-sort).
 
 # License
 homeassistant-js-yaml-schema is licensed under the [MIT License](https://raw.githubusercontent.com/pascalre/homeassistant-js-yaml-schema/master/LICENSE).
+
+testing the changes in the new branch
