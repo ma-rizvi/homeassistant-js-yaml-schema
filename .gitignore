@@ -43,4 +43,8 @@ jspm_packages
 # Output of 'npm pack'
 *.tgz
 
+#ignore the .py file
 /changes.py
+
+#ignore the whole textfolder folder
+textfolder/
