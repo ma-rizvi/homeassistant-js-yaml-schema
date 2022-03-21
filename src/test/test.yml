@@ -1,3 +1,4 @@
 example:
   password: !env_var PASSWORD default_password
 light: !include lights.yaml
+joints:0
