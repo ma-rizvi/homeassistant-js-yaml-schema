@@ -47,4 +47,4 @@ jspm_packages
 /changes.py
 
 #ignore the whole textfolder folder
-textfolder/
+textfolder/*.txt
